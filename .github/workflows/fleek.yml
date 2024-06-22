@@ -13,6 +13,16 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: 18
+      - name: Create fleek.config.json
+        run: |
+          echo '{
+            "sites": [
+              {
+                "slug": "wikip-co",
+                "distDir": "."
+              }
+            ]
+          }' > fleek.config.json
       - name: Install Fleek CLI
         run: npm i -g @fleek-platform/cli
       - name: Build & deploy sites
