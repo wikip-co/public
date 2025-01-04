@@ -6,7 +6,7 @@
   <link href="https://wikip.co/atom.xml" rel="self"/>
   
   <link href="https://wikip.co/"/>
-  <updated>2025-01-04T08:44:26.909Z</updated>
+  <updated>2025-01-04T08:34:33.983Z</updated>
   <id>https://wikip.co/</id>
   
   <author>
@@ -17,638 +17,108 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Bay Leaf</title>
-    <link href="https://wikip.co/bay-leaf/"/>
-    <id>https://wikip.co/bay-leaf/</id>
-    <published>2025-01-04T08:44:26.909Z</published>
-    <updated>2025-01-04T08:44:26.909Z</updated>
+    <title>Managing Python Scripts with uv Inline Metadata</title>
+    <link href="https://wikip.co/managing-python-scripts-with-uv-inline-metadata/"/>
+    <id>https://wikip.co/managing-python-scripts-with-uv-inline-metadata/</id>
+    <published>2025-01-04T08:34:33.983Z</published>
+    <updated>2025-01-04T08:34:33.983Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;&lt;strong&gt;Bay Leaf&lt;/strong&gt; is an aromatic leaf commonly used in cooking. It can be used whole, or as dried and ground.&lt;/p&gt;
-&lt;p&gt;Bay Leaves may come from several different plants such as:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Bay laurel (Laurus nobilis, Lauraceae)&lt;/li&gt;
-&lt;li&gt;California bay leaf – the leaf of the California bay tree (Umbellularia californica, Lauraceae), also known as California laurel, Oregon myrtle, and pepperwood, is similar to the</summary>
+    <summary type="html">&lt;h2 id=&quot;Description&quot;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Managing Python script dependencies and version requirements has traditionally been challenging. The &lt;code&gt;uv&lt;/code&gt; tool, combined with Python’s new inline script metadata standard, offers a modern solution to this problem.&lt;/p&gt;
+&lt;p&gt;Python recently added a standard format for inline script metadata. It allows for selecting Python versions and defining dependencies in a section at the top of the</summary>
         
       
     
     
-    
-    <category term="Natural Healing" scheme="https://wikip.co/categories/natural-healing/"/>
-    
-    <category term="Spices and Herbs" scheme="https://wikip.co/categories/natural-healing/spices-and-herbs/"/>
+    <content src="https://wikip.co/python" type="image"/>
     
     
-    <category term="Diabetes" scheme="https://wikip.co/tags/diabetes/"/>
+    <category term="DevOps" scheme="https://wikip.co/categories/devops/"/>
     
-    <category term="Antiviral" scheme="https://wikip.co/tags/antiviral/"/>
+    <category term="Programming Languages" scheme="https://wikip.co/categories/devops/programming-languages/"/>
     
-    <category term="Antioxidant" scheme="https://wikip.co/tags/antioxidant/"/>
+    <category term="Python" scheme="https://wikip.co/categories/devops/programming-languages/python/"/>
     
-    <category term="Antimicrobial" scheme="https://wikip.co/tags/antimicrobial/"/>
+    <category term="uv" scheme="https://wikip.co/categories/devops/programming-languages/python/uv/"/>
     
-    <category term="Anti-Infectious" scheme="https://wikip.co/tags/anti-infectious/"/>
     
-    <category term="COVID-19" scheme="https://wikip.co/tags/covid-19/"/>
+    <category term="Python" scheme="https://wikip.co/tags/python/"/>
     
-    <category term="Novel Coronavirus" scheme="https://wikip.co/tags/novel-coronavirus/"/>
+    <category term="Package Management" scheme="https://wikip.co/tags/package-management/"/>
     
-    <category term="Coronavirus" scheme="https://wikip.co/tags/coronavirus/"/>
-    
-    <category term="Blood Glucose" scheme="https://wikip.co/tags/blood-glucose/"/>
-    
-    <category term="Diabetes Mellitus" scheme="https://wikip.co/tags/diabetes-mellitus/"/>
-    
-    <category term="Terpenes" scheme="https://wikip.co/tags/terpenes/"/>
+    <category term="DevTools" scheme="https://wikip.co/tags/devtools/"/>
     
   </entry>
   
   <entry>
-    <title>Black Pepper</title>
-    <link href="https://wikip.co/black-pepper/"/>
-    <id>https://wikip.co/black-pepper/</id>
-    <published>2025-01-04T08:44:26.909Z</published>
-    <updated>2025-01-04T08:44:26.909Z</updated>
+    <title>What is uv?</title>
+    <link href="https://wikip.co/what-is-uv/"/>
+    <id>https://wikip.co/what-is-uv/</id>
+    <published>2025-01-04T08:07:41.906Z</published>
+    <updated>2025-01-04T08:07:41.906Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;&lt;strong&gt;Black Pepper&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&quot;Healing-Properties&quot;&gt;Healing Properties&lt;/h2&gt;
-&lt;h3 id=&quot;Antimicrobial&quot;&gt;Antimicrobial&lt;/h3&gt;
-&lt;h3 id=&quot;Digestion&quot;&gt;Digestion&lt;/h3&gt;
-&lt;h4 id=&quot;Bioavailability&quot;&gt;Bioavailability&lt;/h4&gt;
-&lt;p&gt;Black pepper can potentiate bioavailability-- AKA increase absorbtion during normal digestion–of herbs, foods, and certain pharmaceutical drugs.&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;#fn1&quot; id=&quot;fnref1&quot;&gt;[1]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;h4</summary>
+    <summary type="html">&lt;h2 id=&quot;Description&quot;&gt;Description&lt;/h2&gt;
+&lt;p&gt;uv is an extremely fast Python package and project manager, written in Rust.&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;#fn1&quot; id=&quot;fnref1&quot;&gt;[1]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;h2 id=&quot;Installing-uv&quot;&gt;Installing uv &lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;#fn2&quot; id=&quot;fnref2&quot;&gt;[2]&lt;/a&gt;&lt;/sup&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;Linux-and-macOS&quot;&gt;Linux and macOS&lt;/h3&gt;
+&lt;p&gt;Use curl to download the script and execute it with sh:&lt;/p&gt;
+&lt;figure class=&quot;highlight</summary>
         
       
     
     
-    
-    <category term="Natural Healing" scheme="https://wikip.co/categories/natural-healing/"/>
-    
-    <category term="Spices and Herbs" scheme="https://wikip.co/categories/natural-healing/spices-and-herbs/"/>
+    <content src="https://wikip.co/uv" type="image"/>
     
     
-    <category term="Antioxidant" scheme="https://wikip.co/tags/antioxidant/"/>
+    <category term="DevOps" scheme="https://wikip.co/categories/devops/"/>
     
-    <category term="Antimicrobial" scheme="https://wikip.co/tags/antimicrobial/"/>
+    <category term="Programming Languages" scheme="https://wikip.co/categories/devops/programming-languages/"/>
     
-    <category term="Arthritis" scheme="https://wikip.co/tags/arthritis/"/>
+    <category term="Python" scheme="https://wikip.co/categories/devops/programming-languages/python/"/>
     
-    <category term="Diaphoretic" scheme="https://wikip.co/tags/diaphoretic/"/>
+    <category term="uv" scheme="https://wikip.co/categories/devops/programming-languages/python/uv/"/>
     
-    <category term="Antispasmodic" scheme="https://wikip.co/tags/antispasmodic/"/>
     
-    <category term="Expectorant" scheme="https://wikip.co/tags/expectorant/"/>
-    
-    <category term="Absorption" scheme="https://wikip.co/tags/absorption/"/>
-    
-    <category term="Bioenhancer" scheme="https://wikip.co/tags/bioenhancer/"/>
-    
-    <category term="Bioavailability" scheme="https://wikip.co/tags/bioavailability/"/>
-    
-    <category term="Carminative" scheme="https://wikip.co/tags/carminative/"/>
-    
-    <category term="Circulatory Stimulant" scheme="https://wikip.co/tags/circulatory-stimulant/"/>
-    
-    <category term="Fever" scheme="https://wikip.co/tags/fever/"/>
-    
-    <category term="Laxative" scheme="https://wikip.co/tags/laxative/"/>
-    
-    <category term="Mucus Congestion" scheme="https://wikip.co/tags/mucus-congestion/"/>
+    <category term="Python" scheme="https://wikip.co/tags/python/"/>
     
   </entry>
   
   <entry>
-    <title>Cayenne</title>
-    <link href="https://wikip.co/cayenne/"/>
-    <id>https://wikip.co/cayenne/</id>
-    <published>2025-01-04T08:44:26.909Z</published>
-    <updated>2025-01-04T08:44:26.909Z</updated>
+    <title>Christmas Prayers</title>
+    <link href="https://wikip.co/christmas-prayers/"/>
+    <id>https://wikip.co/christmas-prayers/</id>
+    <published>2025-01-04T07:44:39.794Z</published>
+    <updated>2025-01-04T07:44:39.794Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;The &lt;strong&gt;Cayenne&lt;/strong&gt; pepper is a type of Capsicum annuum. It is usually a moderately hot chili pepper used to flavor dishes. Cayenne peppers are a group of tapering, 10 to 25 cm long, generally skinny, mostly red colored peppers, often with a curved tip and somewhat rippled skin, which hang from the bush as opposed to growing upright. Most varieties are generally rated at 30,000 to 50,000 Scoville units.[&lt;/p&gt;
-&lt;h2</summary>
+    <summary type="html">&lt;h2 id=&quot;Verses&quot;&gt;Verses&lt;/h2&gt;
+&lt;h3 id=&quot;Isaiah-9-6-7&quot;&gt;Isaiah 9:6-7&lt;/h3&gt;
+&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span</summary>
         
       
     
     
+    <content src="https://wikip.co/Bible" type="image"/>
     
-    <category term="Natural Healing" scheme="https://wikip.co/categories/natural-healing/"/>
     
-    <category term="Spices and Herbs" scheme="https://wikip.co/categories/natural-healing/spices-and-herbs/"/>
+    <category term="Bible Study" scheme="https://wikip.co/categories/bible-study/"/>
     
+    <category term="Prayers" scheme="https://wikip.co/categories/bible-study/prayers/"/>
     
-    <category term="Antioxidant" scheme="https://wikip.co/tags/antioxidant/"/>
-    
-    <category term="Antimicrobial" scheme="https://wikip.co/tags/antimicrobial/"/>
-    
-    <category term="Antifungal" scheme="https://wikip.co/tags/antifungal/"/>
-    
-    <category term="Anti-Fungal" scheme="https://wikip.co/tags/anti-fungal/"/>
-    
-    <category term="Immunostimulant" scheme="https://wikip.co/tags/immunostimulant/"/>
-    
-    <category term="Analgesic" scheme="https://wikip.co/tags/analgesic/"/>
-    
-    <category term="Dysmenorrhea" scheme="https://wikip.co/tags/dysmenorrhea/"/>
-    
-    <category term="Menstrual Cramps" scheme="https://wikip.co/tags/menstrual-cramps/"/>
-    
-    <category term="Blood Health" scheme="https://wikip.co/tags/blood-health/"/>
-    
-    <category term="Metabolic Stimulant" scheme="https://wikip.co/tags/metabolic-stimulant/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Cilantro</title>
-    <link href="https://wikip.co/cilantro/"/>
-    <id>https://wikip.co/cilantro/</id>
-    <published>2025-01-04T08:44:26.909Z</published>
-    <updated>2025-01-04T08:44:26.909Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;&lt;strong&gt;Cilantro&lt;/strong&gt; (Coriandrum sativum)&lt;/p&gt;
-&lt;h2 id=&quot;Biological-Properties&quot;&gt;Biological Properties&lt;/h2&gt;
-&lt;h3 id=&quot;Antiinflammatory&quot;&gt;Antiinflammatory&lt;/h3&gt;
-&lt;h3 id=&quot;Anticonvulsant&quot;&gt;Anticonvulsant&lt;/h3&gt;
-&lt;p&gt;Cilantro extract is highly effective at activating multiple isoforms within a clinically prominent family of human Voltage-gated potassium channels.&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;#fn1&quot; id=&quot;fnref1&quot;&gt;[1]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;h3</summary>
-        
-      
-    
-    
-    
-    <category term="Natural Healing" scheme="https://wikip.co/categories/natural-healing/"/>
-    
-    <category term="Spices and Herbs" scheme="https://wikip.co/categories/natural-healing/spices-and-herbs/"/>
-    
-    
-    <category term="Inflammation" scheme="https://wikip.co/tags/inflammation/"/>
-    
-    <category term="Antibacterial" scheme="https://wikip.co/tags/antibacterial/"/>
-    
-    <category term="Wound Healing" scheme="https://wikip.co/tags/wound-healing/"/>
-    
-    <category term="Antiinflammatory" scheme="https://wikip.co/tags/antiinflammatory/"/>
-    
-    <category term="Digestion" scheme="https://wikip.co/tags/digestion/"/>
-    
-    <category term="Anti-Convulsive" scheme="https://wikip.co/tags/anti-convulsive/"/>
-    
-    <category term="Anti-Seizure" scheme="https://wikip.co/tags/anti-seizure/"/>
-    
-    <category term="Anticonvulsant" scheme="https://wikip.co/tags/anticonvulsant/"/>
-    
-    <category term="Anticonvulsive" scheme="https://wikip.co/tags/anticonvulsive/"/>
-    
-    <category term="Antiseizure" scheme="https://wikip.co/tags/antiseizure/"/>
-    
-    <category term="Hypertension" scheme="https://wikip.co/tags/hypertension/"/>
-    
-    <category term="Analgesic" scheme="https://wikip.co/tags/analgesic/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Cumin</title>
-    <link href="https://wikip.co/cumin/"/>
-    <id>https://wikip.co/cumin/</id>
-    <published>2025-01-04T08:44:26.909Z</published>
-    <updated>2025-01-04T08:44:26.909Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;&lt;strong&gt;Cumin&lt;/strong&gt; (Cuminum cyminum) is a flowering plant in the parsley family which produces a fruit that contains aromatic seeds which are dried and used as a spice, they are usually ground into a powder and used in curry.&lt;/p&gt;
-&lt;h2 id=&quot;Biological-Properties&quot;&gt;Biological Properties&lt;/h2&gt;
-&lt;h3 id=&quot;Anti-Aflatoxigenic&quot;&gt;Anti-Aflatoxigenic&lt;/h3&gt;
-&lt;h3 id=&quot;Anticancer&quot;&gt;Anticancer&lt;/h3&gt;
-&lt;h4 id=&quot;Chemopreventive&quot;&gt;Chemopreventive&lt;/h4&gt;
-&lt;p&gt;C.</summary>
-        
-      
-    
-    
-    
-    <category term="Natural Healing" scheme="https://wikip.co/categories/natural-healing/"/>
-    
-    <category term="Spices and Herbs" scheme="https://wikip.co/categories/natural-healing/spices-and-herbs/"/>
-    
-    
-    <category term="Antioxidant" scheme="https://wikip.co/tags/antioxidant/"/>
-    
-    <category term="Antimicrobial" scheme="https://wikip.co/tags/antimicrobial/"/>
-    
-    <category term="Antibacterial" scheme="https://wikip.co/tags/antibacterial/"/>
-    
-    <category term="Antifungal" scheme="https://wikip.co/tags/antifungal/"/>
-    
-    <category term="Anticancer" scheme="https://wikip.co/tags/anticancer/"/>
-    
-    <category term="Antiinflammatory" scheme="https://wikip.co/tags/antiinflammatory/"/>
-    
-    <category term="Cancer" scheme="https://wikip.co/tags/cancer/"/>
-    
-    <category term="Breast Cancer" scheme="https://wikip.co/tags/breast-cancer/"/>
-    
-    <category term="Hypercholesterolemia" scheme="https://wikip.co/tags/hypercholesterolemia/"/>
-    
-    <category term="Chemopreventive" scheme="https://wikip.co/tags/chemopreventive/"/>
-    
-    <category term="Obesity" scheme="https://wikip.co/tags/obesity/"/>
-    
-    <category term="Weight Loss" scheme="https://wikip.co/tags/weight-loss/"/>
-    
-    <category term="Anti-Aflatoxigenic" scheme="https://wikip.co/tags/anti-aflatoxigenic/"/>
-    
-    <category term="Chemotherapeutic" scheme="https://wikip.co/tags/chemotherapeutic/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Fennel</title>
-    <link href="https://wikip.co/fennel/"/>
-    <id>https://wikip.co/fennel/</id>
-    <published>2025-01-04T08:44:26.909Z</published>
-    <updated>2025-01-04T08:44:26.909Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;Fennel&lt;/p&gt;
-&lt;h2 id=&quot;Healing-Properties&quot;&gt;Healing Properties&lt;/h2&gt;
-&lt;h2 id=&quot;Disease-Symptom-Treatment&quot;&gt;Disease / Symptom Treatment&lt;/h2&gt;
-&lt;h5&gt;Featured Item:&lt;/h5&gt;
-&lt;script type=&quot;text/javascript&quot;&gt;
-amzn_assoc_tracking_id = &quot;alchemistco07-20&quot;;
-amzn_assoc_ad_mode = &quot;manual&quot;;
-amzn_assoc_ad_type = &quot;smart&quot;;
-amzn_assoc_marketplace = &quot;amazon&quot;;
-amzn_assoc_region = &quot;US&quot;;
-amzn_assoc_design = &quot;enhanced_links&quot;;
-amzn_assoc_asins =</summary>
-        
-      
-    
-    
-    
-    <category term="Natural Healing" scheme="https://wikip.co/categories/natural-healing/"/>
-    
-    <category term="Spices and Herbs" scheme="https://wikip.co/categories/natural-healing/spices-and-herbs/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Garlic</title>
-    <link href="https://wikip.co/garlic/"/>
-    <id>https://wikip.co/garlic/</id>
-    <published>2025-01-04T08:44:26.909Z</published>
-    <updated>2025-01-04T08:44:26.909Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;&lt;strong&gt;Garlic&lt;/strong&gt; (Allium sativum)&lt;/p&gt;
-&lt;h2 id=&quot;Healing-Properties&quot;&gt;Healing Properties&lt;/h2&gt;
-&lt;h3 id=&quot;Antiiflammatory&quot;&gt;Antiiflammatory&lt;/h3&gt;
-&lt;h3 id=&quot;Antioxidant&quot;&gt;Antioxidant&lt;/h3&gt;
-&lt;p&gt;Prevents DNA damage.&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;#fn1&quot; id=&quot;fnref1&quot;&gt;[1]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;h3 id=&quot;Antithrombotic&quot;&gt;Antithrombotic&lt;/h3&gt;
-&lt;h3 id=&quot;Anti-Obesity-weight-loss&quot;&gt;Anti-Obesity (weight loss)&lt;/h3&gt;
-&lt;p&gt;Prevents weight gain related to high fat</summary>
-        
-      
-    
-    
-    
-    <category term="Natural Healing" scheme="https://wikip.co/categories/natural-healing/"/>
-    
-    <category term="Spices and Herbs" scheme="https://wikip.co/categories/natural-healing/spices-and-herbs/"/>
-    
-    
-    <category term="Antiviral" scheme="https://wikip.co/tags/antiviral/"/>
-    
-    <category term="Antimicrobial" scheme="https://wikip.co/tags/antimicrobial/"/>
-    
-    <category term="Antibacterial" scheme="https://wikip.co/tags/antibacterial/"/>
-    
-    <category term="Anticancer" scheme="https://wikip.co/tags/anticancer/"/>
-    
-    <category term="Antiinflammatory" scheme="https://wikip.co/tags/antiinflammatory/"/>
-    
-    <category term="Hypoglycemic" scheme="https://wikip.co/tags/hypoglycemic/"/>
-    
-    <category term="Antibiotic" scheme="https://wikip.co/tags/antibiotic/"/>
-    
-    <category term="Hypolipidemic" scheme="https://wikip.co/tags/hypolipidemic/"/>
-    
-    <category term="Antiobesity" scheme="https://wikip.co/tags/antiobesity/"/>
-    
-    <category term="COVID-19" scheme="https://wikip.co/tags/covid-19/"/>
-    
-    <category term="Coronavirus" scheme="https://wikip.co/tags/coronavirus/"/>
-    
-    <category term="Antithrombotic" scheme="https://wikip.co/tags/antithrombotic/"/>
-    
-    <category term="Thrombosis" scheme="https://wikip.co/tags/thrombosis/"/>
-    
-    <category term="Immunomodulatory" scheme="https://wikip.co/tags/immunomodulatory/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Ginger</title>
-    <link href="https://wikip.co/ginger/"/>
-    <id>https://wikip.co/ginger/</id>
-    <published>2025-01-04T08:44:26.909Z</published>
-    <updated>2025-01-04T08:44:26.909Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;&lt;strong&gt;Ginger&lt;/strong&gt; (Zingiber officinale)&lt;/p&gt;
-&lt;h2 id=&quot;Healing-Properties&quot;&gt;Healing Properties&lt;/h2&gt;
-&lt;h3 id=&quot;Analgesic&quot;&gt;Analgesic&lt;/h3&gt;
-&lt;h3 id=&quot;Antiinflammatory&quot;&gt;Antiinflammatory&lt;/h3&gt;
-&lt;h3 id=&quot;Antimicrobial&quot;&gt;Antimicrobial&lt;/h3&gt;
-&lt;h3 id=&quot;Antipyretic&quot;&gt;Antipyretic&lt;/h3&gt;
-&lt;p&gt;Ginger has been shown to help reduce fever.&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;#fn1&quot; id=&quot;fnref1&quot;&gt;[1]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;h3 id=&quot;Blood-Pressure&quot;&gt;Blood Pressure&lt;/h3&gt;
-&lt;p&gt;Improves</summary>
-        
-      
-    
-    
-    
-    <category term="Natural Healing" scheme="https://wikip.co/categories/natural-healing/"/>
-    
-    <category term="Spices and Herbs" scheme="https://wikip.co/categories/natural-healing/spices-and-herbs/"/>
-    
-    
-    <category term="Antimicrobial" scheme="https://wikip.co/tags/antimicrobial/"/>
-    
-    <category term="Antibacterial" scheme="https://wikip.co/tags/antibacterial/"/>
-    
-    <category term="Antifungal" scheme="https://wikip.co/tags/antifungal/"/>
-    
-    <category term="Anticancer" scheme="https://wikip.co/tags/anticancer/"/>
-    
-    <category term="Antiinflammatory" scheme="https://wikip.co/tags/antiinflammatory/"/>
-    
-    <category term="Digestion" scheme="https://wikip.co/tags/digestion/"/>
-    
-    <category term="Sedative" scheme="https://wikip.co/tags/sedative/"/>
-    
-    <category term="Heart Health" scheme="https://wikip.co/tags/heart-health/"/>
-    
-    <category term="Diaphoretic" scheme="https://wikip.co/tags/diaphoretic/"/>
-    
-    <category term="Nausea" scheme="https://wikip.co/tags/nausea/"/>
-    
-    <category term="Analgesic" scheme="https://wikip.co/tags/analgesic/"/>
-    
-    <category term="Expectorant" scheme="https://wikip.co/tags/expectorant/"/>
-    
-    <category term="Blood Pressure" scheme="https://wikip.co/tags/blood-pressure/"/>
-    
-    <category term="Bioenhancer" scheme="https://wikip.co/tags/bioenhancer/"/>
-    
-    <category term="Carminative" scheme="https://wikip.co/tags/carminative/"/>
-    
-    <category term="Antithrombotic" scheme="https://wikip.co/tags/antithrombotic/"/>
-    
-    <category term="Antipyretic" scheme="https://wikip.co/tags/antipyretic/"/>
-    
-    <category term="Infection" scheme="https://wikip.co/tags/infection/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Horseradish</title>
-    <link href="https://wikip.co/horseradish/"/>
-    <id>https://wikip.co/horseradish/</id>
-    <published>2025-01-04T08:44:26.909Z</published>
-    <updated>2025-01-04T08:44:26.909Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;&lt;strong&gt;Horseradish&lt;/strong&gt; (Armoracia rusticana, syn. Cochlearia armoracia) is a root vegetable used as a spice.  It is in the same family of plants as mustard, wasabi, broccoli, and cabbage (Brassicaceae).</summary>
-    
-    
-    
-    <category term="Natural Healing" scheme="https://wikip.co/categories/natural-healing/"/>
-    
-    <category term="Spices and Herbs" scheme="https://wikip.co/categories/natural-healing/spices-and-herbs/"/>
-    
-    
-    <category term="Antiviral" scheme="https://wikip.co/tags/antiviral/"/>
-    
-    <category term="Antimicrobial" scheme="https://wikip.co/tags/antimicrobial/"/>
-    
-    <category term="Anticancer" scheme="https://wikip.co/tags/anticancer/"/>
-    
-    <category term="Heart Health" scheme="https://wikip.co/tags/heart-health/"/>
-    
-    <category term="Blood Health" scheme="https://wikip.co/tags/blood-health/"/>
-    
-    <category term="Chemoprotective" scheme="https://wikip.co/tags/chemoprotective/"/>
-    
-    <category term="Urinary Tract Infection" scheme="https://wikip.co/tags/urinary-tract-infection/"/>
-    
-    <category term="UTI" scheme="https://wikip.co/tags/uti/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Licorice</title>
-    <link href="https://wikip.co/licorice/"/>
-    <id>https://wikip.co/licorice/</id>
-    <published>2025-01-04T08:44:26.909Z</published>
-    <updated>2025-01-04T08:44:26.909Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;&lt;strong&gt;Licorice Root&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&quot;Healing-Properties&quot;&gt;Healing Properties&lt;/h2&gt;
-&lt;h2 id=&quot;Disease-Symptom-Treatment&quot;&gt;Disease / Symptom</summary>
-        
-      
-    
-    
-    
-    <category term="Natural Healing" scheme="https://wikip.co/categories/natural-healing/"/>
-    
-    <category term="Spices and Herbs" scheme="https://wikip.co/categories/natural-healing/spices-and-herbs/"/>
-    
-    
-    <category term="Antioxidant" scheme="https://wikip.co/tags/antioxidant/"/>
-    
-    <category term="Anticancer" scheme="https://wikip.co/tags/anticancer/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Oregano</title>
-    <link href="https://wikip.co/oregano/"/>
-    <id>https://wikip.co/oregano/</id>
-    <published>2025-01-04T08:44:26.909Z</published>
-    <updated>2025-01-04T08:44:26.909Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;&lt;strong&gt;Oregano&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&quot;Healing-Properties&quot;&gt;Healing Properties&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;[Anesthetic]&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;[Anticancer]&lt;/strong&gt; (Anticancer)
-&lt;ul&gt;
-&lt;li&gt;cytotoxic to certain types of liver cancer.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;[Antimicrobial]&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;[Antibacterial]&lt;/strong&gt; (Bactericidal)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;[Antiviral]&lt;/strong&gt; (anti-viral)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;[Immune</summary>
-        
-      
-    
-    
-    
-    <category term="Natural Healing" scheme="https://wikip.co/categories/natural-healing/"/>
-    
-    <category term="Spices and Herbs" scheme="https://wikip.co/categories/natural-healing/spices-and-herbs/"/>
-    
-    
-    <category term="Antiviral" scheme="https://wikip.co/tags/antiviral/"/>
-    
-    <category term="Antimicrobial" scheme="https://wikip.co/tags/antimicrobial/"/>
-    
-    <category term="Anticancer" scheme="https://wikip.co/tags/anticancer/"/>
-    
-    <category term="Anesthetic" scheme="https://wikip.co/tags/anesthetic/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Mustard</title>
-    <link href="https://wikip.co/mustard/"/>
-    <id>https://wikip.co/mustard/</id>
-    <published>2025-01-04T08:44:26.909Z</published>
-    <updated>2025-01-04T08:44:26.909Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;&lt;strong&gt;Mustard&lt;/strong&gt; is made from the seeds of the mustard plant.  The mustard plant belongs to the angiosperm family, Brassicacea.&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;#fn1&quot; id=&quot;fnref1&quot;&gt;[1]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;p&gt;There are three known edible species of mustard:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;White/yellow mustard, (Sinapis alba/ Brassica alba)&lt;/li&gt;
-&lt;li&gt;Brown mustard, (Brassica juncea)&lt;/li&gt;
-&lt;li&gt;Black mustard, (Brassica nigra)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2</summary>
-        
-      
-    
-    
-    
-    <category term="Natural Healing" scheme="https://wikip.co/categories/natural-healing/"/>
-    
-    <category term="Spices and Herbs" scheme="https://wikip.co/categories/natural-healing/spices-and-herbs/"/>
-    
-    
-    <category term="Diabetes" scheme="https://wikip.co/tags/diabetes/"/>
-    
-    <category term="Inflammation" scheme="https://wikip.co/tags/inflammation/"/>
-    
-    <category term="Antidiabetic" scheme="https://wikip.co/tags/antidiabetic/"/>
-    
-    <category term="Antioxidant" scheme="https://wikip.co/tags/antioxidant/"/>
-    
-    <category term="Antimicrobial" scheme="https://wikip.co/tags/antimicrobial/"/>
-    
-    <category term="Antifungal" scheme="https://wikip.co/tags/antifungal/"/>
-    
-    <category term="Anticancer" scheme="https://wikip.co/tags/anticancer/"/>
-    
-    <category term="Antiinflammatory" scheme="https://wikip.co/tags/antiinflammatory/"/>
-    
-    <category term="Arthritis" scheme="https://wikip.co/tags/arthritis/"/>
-    
-    <category term="Common Cold" scheme="https://wikip.co/tags/common-cold/"/>
-    
-    <category term="Chemoprotective" scheme="https://wikip.co/tags/chemoprotective/"/>
-    
-    <category term="Anti-Cancer" scheme="https://wikip.co/tags/anti-cancer/"/>
-    
-    <category term="Joint pain" scheme="https://wikip.co/tags/joint-pain/"/>
-    
-    <category term="Cough" scheme="https://wikip.co/tags/cough/"/>
-    
-    <category term="Rheumatism" scheme="https://wikip.co/tags/rheumatism/"/>
-    
-    <category term="Antimutagenic" scheme="https://wikip.co/tags/antimutagenic/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Parsley</title>
-    <link href="https://wikip.co/parsley/"/>
-    <id>https://wikip.co/parsley/</id>
-    <published>2025-01-04T08:44:26.909Z</published>
-    <updated>2025-01-04T08:44:26.909Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;&lt;strong&gt;Parsley&lt;/strong&gt; (Petroselinum crispum)</summary>
-    
-    
-    
-    <category term="Natural Healing" scheme="https://wikip.co/categories/natural-healing/"/>
-    
-    <category term="Spices and Herbs" scheme="https://wikip.co/categories/natural-healing/spices-and-herbs/"/>
-    
-    
-    <category term="Antioxidant" scheme="https://wikip.co/tags/antioxidant/"/>
-    
-    <category term="Diuretic" scheme="https://wikip.co/tags/diuretic/"/>
-    
-    <category term="Carminative" scheme="https://wikip.co/tags/carminative/"/>
     
   </entry>
   
@@ -656,8 +126,8 @@ amzn_assoc_asins =</summary>
     <title>Peppermint</title>
     <link href="https://wikip.co/peppermint/"/>
     <id>https://wikip.co/peppermint/</id>
-    <published>2025-01-04T08:44:26.909Z</published>
-    <updated>2025-01-04T08:44:26.909Z</updated>
+    <published>2024-12-22T01:13:21.235Z</published>
+    <updated>2024-12-22T01:13:21.235Z</updated>
     
     
       
@@ -698,8 +168,8 @@ amzn_assoc_asins =</summary>
     <title>Rosemary</title>
     <link href="https://wikip.co/rosemary/"/>
     <id>https://wikip.co/rosemary/</id>
-    <published>2025-01-04T08:44:26.909Z</published>
-    <updated>2025-01-04T08:44:26.909Z</updated>
+    <published>2024-12-22T01:13:21.235Z</published>
+    <updated>2024-12-22T01:13:21.235Z</updated>
     
     
       
@@ -728,11 +198,11 @@ amzn_assoc_asins =</summary>
     
     <category term="Digestion" scheme="https://wikip.co/tags/digestion/"/>
     
+    <category term="Neuroprotective" scheme="https://wikip.co/tags/neuroprotective/"/>
+    
     <category term="Anxiolytic" scheme="https://wikip.co/tags/anxiolytic/"/>
     
     <category term="Antianxiety" scheme="https://wikip.co/tags/antianxiety/"/>
-    
-    <category term="Neuroprotective" scheme="https://wikip.co/tags/neuroprotective/"/>
     
     <category term="Antiepileptic" scheme="https://wikip.co/tags/antiepileptic/"/>
     
@@ -768,8 +238,8 @@ amzn_assoc_asins =</summary>
     <title>Sage</title>
     <link href="https://wikip.co/sage/"/>
     <id>https://wikip.co/sage/</id>
-    <published>2025-01-04T08:44:26.909Z</published>
-    <updated>2025-01-04T08:44:26.909Z</updated>
+    <published>2024-12-22T01:13:21.235Z</published>
+    <updated>2024-12-22T01:13:21.235Z</updated>
     
     
       
@@ -836,8 +306,8 @@ amzn_assoc_asins =</summary>
     <title>Sarsaparilla</title>
     <link href="https://wikip.co/sarsaparilla/"/>
     <id>https://wikip.co/sarsaparilla/</id>
-    <published>2025-01-04T08:44:26.909Z</published>
-    <updated>2025-01-04T08:44:26.909Z</updated>
+    <published>2024-12-22T01:13:21.235Z</published>
+    <updated>2024-12-22T01:13:21.235Z</updated>
     
     
       
@@ -865,11 +335,42 @@ amzn_assoc_asins =</summary>
   </entry>
   
   <entry>
+    <title>Thyme</title>
+    <link href="https://wikip.co/thyme/"/>
+    <id>https://wikip.co/thyme/</id>
+    <published>2024-12-22T01:13:21.235Z</published>
+    <updated>2024-12-22T01:13:21.235Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;strong&gt;Thyme&lt;/strong&gt; is the herb of some members of the genus Thymus of aromatic perennial evergreen herbs in the mint family Lamiaceae. Thymes are relatives of the oregano genus Origanum. They have culinary, medicinal, and ornamental uses, and the species most commonly cultivated and used for culinary purposes is Thymus vulgaris.&lt;/p&gt;
+&lt;h2 id=&quot;Healing-Properties&quot;&gt;Healing Properties&lt;/h2&gt;
+&lt;h3</summary>
+        
+      
+    
+    
+    
+    <category term="Natural Healing" scheme="https://wikip.co/categories/natural-healing/"/>
+    
+    <category term="Spices and Herbs" scheme="https://wikip.co/categories/natural-healing/spices-and-herbs/"/>
+    
+    
+    <category term="Antimicrobial" scheme="https://wikip.co/tags/antimicrobial/"/>
+    
+    <category term="Antibacterial" scheme="https://wikip.co/tags/antibacterial/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Turmeric</title>
     <link href="https://wikip.co/turmeric/"/>
     <id>https://wikip.co/turmeric/</id>
-    <published>2025-01-04T08:44:26.909Z</published>
-    <updated>2025-01-04T08:44:26.909Z</updated>
+    <published>2024-12-22T01:13:21.235Z</published>
+    <updated>2024-12-22T01:13:21.235Z</updated>
     
     
       
@@ -901,8 +402,8 @@ amzn_assoc_asins =</summary>
     <title>Asparagus</title>
     <link href="https://wikip.co/asparagus/"/>
     <id>https://wikip.co/asparagus/</id>
-    <published>2025-01-04T08:44:26.909Z</published>
-    <updated>2025-01-04T08:44:26.909Z</updated>
+    <published>2024-12-22T01:13:21.235Z</published>
+    <updated>2024-12-22T01:13:21.235Z</updated>
     
     
       
@@ -936,42 +437,11 @@ amzn_assoc_asins =</summary>
   </entry>
   
   <entry>
-    <title>Thyme</title>
-    <link href="https://wikip.co/thyme/"/>
-    <id>https://wikip.co/thyme/</id>
-    <published>2025-01-04T08:44:26.909Z</published>
-    <updated>2025-01-04T08:44:26.909Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;&lt;strong&gt;Thyme&lt;/strong&gt; is the herb of some members of the genus Thymus of aromatic perennial evergreen herbs in the mint family Lamiaceae. Thymes are relatives of the oregano genus Origanum. They have culinary, medicinal, and ornamental uses, and the species most commonly cultivated and used for culinary purposes is Thymus vulgaris.&lt;/p&gt;
-&lt;h2 id=&quot;Healing-Properties&quot;&gt;Healing Properties&lt;/h2&gt;
-&lt;h3</summary>
-        
-      
-    
-    
-    
-    <category term="Natural Healing" scheme="https://wikip.co/categories/natural-healing/"/>
-    
-    <category term="Spices and Herbs" scheme="https://wikip.co/categories/natural-healing/spices-and-herbs/"/>
-    
-    
-    <category term="Antimicrobial" scheme="https://wikip.co/tags/antimicrobial/"/>
-    
-    <category term="Antibacterial" scheme="https://wikip.co/tags/antibacterial/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Beet Root</title>
     <link href="https://wikip.co/beet-root/"/>
     <id>https://wikip.co/beet-root/</id>
-    <published>2025-01-04T08:44:26.909Z</published>
-    <updated>2025-01-04T08:44:26.909Z</updated>
+    <published>2024-12-22T01:13:21.235Z</published>
+    <updated>2024-12-22T01:13:21.235Z</updated>
     
     
       
@@ -1004,8 +474,8 @@ amzn_assoc_asins =</summary>
     <title>Broccoli</title>
     <link href="https://wikip.co/broccoli/"/>
     <id>https://wikip.co/broccoli/</id>
-    <published>2025-01-04T08:44:26.909Z</published>
-    <updated>2025-01-04T08:44:26.909Z</updated>
+    <published>2024-12-22T01:13:21.235Z</published>
+    <updated>2024-12-22T01:13:21.235Z</updated>
     
     
       
@@ -1030,17 +500,17 @@ amzn_assoc_asins =</summary>
     
     <category term="Anticancer" scheme="https://wikip.co/tags/anticancer/"/>
     
-    <category term="Prostate Cancer" scheme="https://wikip.co/tags/prostate-cancer/"/>
+    <category term="Bladder Cancer" scheme="https://wikip.co/tags/bladder-cancer/"/>
     
     <category term="Breast Cancer" scheme="https://wikip.co/tags/breast-cancer/"/>
     
     <category term="Colorectal Cancer" scheme="https://wikip.co/tags/colorectal-cancer/"/>
     
+    <category term="Prostate Cancer" scheme="https://wikip.co/tags/prostate-cancer/"/>
+    
     <category term="Hepatoprotective" scheme="https://wikip.co/tags/hepatoprotective/"/>
     
     <category term="Obesity" scheme="https://wikip.co/tags/obesity/"/>
-    
-    <category term="Bladder Cancer" scheme="https://wikip.co/tags/bladder-cancer/"/>
     
     <category term="Weight Loss" scheme="https://wikip.co/tags/weight-loss/"/>
     
@@ -1068,8 +538,8 @@ amzn_assoc_asins =</summary>
     <title>Cabbage</title>
     <link href="https://wikip.co/cabbage/"/>
     <id>https://wikip.co/cabbage/</id>
-    <published>2025-01-04T08:44:26.909Z</published>
-    <updated>2025-01-04T08:44:26.909Z</updated>
+    <published>2024-12-22T01:13:21.235Z</published>
+    <updated>2024-12-22T01:13:21.235Z</updated>
     
     
       
@@ -1104,8 +574,8 @@ amzn_assoc_asins =</summary>
     <title>Carrots</title>
     <link href="https://wikip.co/carrots/"/>
     <id>https://wikip.co/carrots/</id>
-    <published>2025-01-04T08:44:26.909Z</published>
-    <updated>2025-01-04T08:44:26.909Z</updated>
+    <published>2024-12-22T01:13:21.235Z</published>
+    <updated>2024-12-22T01:13:21.235Z</updated>
     
     
       
@@ -1135,8 +605,8 @@ amzn_assoc_asins =</summary>
     <title>Celery</title>
     <link href="https://wikip.co/celery/"/>
     <id>https://wikip.co/celery/</id>
-    <published>2025-01-04T08:44:26.909Z</published>
-    <updated>2025-01-04T08:44:26.909Z</updated>
+    <published>2024-12-22T01:13:21.235Z</published>
+    <updated>2024-12-22T01:13:21.235Z</updated>
     
     
       
@@ -1169,8 +639,8 @@ amzn_assoc_asins =</summary>
     <title>Kale</title>
     <link href="https://wikip.co/kale/"/>
     <id>https://wikip.co/kale/</id>
-    <published>2025-01-04T08:44:26.909Z</published>
-    <updated>2025-01-04T08:44:26.909Z</updated>
+    <published>2024-12-22T01:13:21.235Z</published>
+    <updated>2024-12-22T01:13:21.235Z</updated>
     
     
       
@@ -1196,8 +666,8 @@ amzn_assoc_asins =</summary>
     <title>Olives</title>
     <link href="https://wikip.co/olives/"/>
     <id>https://wikip.co/olives/</id>
-    <published>2025-01-04T08:44:26.909Z</published>
-    <updated>2025-01-04T08:44:26.909Z</updated>
+    <published>2024-12-22T01:13:21.235Z</published>
+    <updated>2024-12-22T01:13:21.235Z</updated>
     
     
       
@@ -1218,9 +688,9 @@ amzn_assoc_asins =</summary>
     <category term="Vegetables" scheme="https://wikip.co/categories/natural-healing/vegetables/"/>
     
     
-    <category term="Brain Health" scheme="https://wikip.co/tags/brain-health/"/>
-    
     <category term="Heart Health" scheme="https://wikip.co/tags/heart-health/"/>
+    
+    <category term="Brain Health" scheme="https://wikip.co/tags/brain-health/"/>
     
   </entry>
   
@@ -1228,8 +698,8 @@ amzn_assoc_asins =</summary>
     <title>Onions</title>
     <link href="https://wikip.co/onions/"/>
     <id>https://wikip.co/onions/</id>
-    <published>2025-01-04T08:44:26.909Z</published>
-    <updated>2025-01-04T08:44:26.909Z</updated>
+    <published>2024-12-22T01:13:21.235Z</published>
+    <updated>2024-12-22T01:13:21.235Z</updated>
     
     
       
@@ -1257,13 +727,13 @@ amzn_assoc_asins =</summary>
     
     <category term="Antifungal" scheme="https://wikip.co/tags/antifungal/"/>
     
-    <category term="Hypolipidemic" scheme="https://wikip.co/tags/hypolipidemic/"/>
-    
-    <category term="Stroke" scheme="https://wikip.co/tags/stroke/"/>
-    
     <category term="Blood Health" scheme="https://wikip.co/tags/blood-health/"/>
     
     <category term="Antiobesity" scheme="https://wikip.co/tags/antiobesity/"/>
+    
+    <category term="Hypolipidemic" scheme="https://wikip.co/tags/hypolipidemic/"/>
+    
+    <category term="Stroke" scheme="https://wikip.co/tags/stroke/"/>
     
     <category term="Antiplatelet" scheme="https://wikip.co/tags/antiplatelet/"/>
     
@@ -1273,8 +743,8 @@ amzn_assoc_asins =</summary>
     <title>Radish</title>
     <link href="https://wikip.co/radish/"/>
     <id>https://wikip.co/radish/</id>
-    <published>2025-01-04T08:44:26.909Z</published>
-    <updated>2025-01-04T08:44:26.909Z</updated>
+    <published>2024-12-22T01:13:21.235Z</published>
+    <updated>2024-12-22T01:13:21.235Z</updated>
     
     
       
@@ -1304,8 +774,8 @@ amzn_assoc_asins =</summary>
     <title>Spinach</title>
     <link href="https://wikip.co/spinach/"/>
     <id>https://wikip.co/spinach/</id>
-    <published>2025-01-04T08:44:26.909Z</published>
-    <updated>2025-01-04T08:44:26.909Z</updated>
+    <published>2024-12-22T01:13:21.235Z</published>
+    <updated>2024-12-22T01:13:21.235Z</updated>
     
     
       
@@ -1345,8 +815,8 @@ amzn_assoc_asins =</summary>
     <title>Sprouts</title>
     <link href="https://wikip.co/sprouts/"/>
     <id>https://wikip.co/sprouts/</id>
-    <published>2025-01-04T08:44:26.909Z</published>
-    <updated>2025-01-04T08:44:26.909Z</updated>
+    <published>2024-12-22T01:13:21.235Z</published>
+    <updated>2024-12-22T01:13:21.235Z</updated>
     
     
       
@@ -1375,8 +845,8 @@ amzn_assoc_asins =</summary>
     <title>Sweet Potato</title>
     <link href="https://wikip.co/sweet-potato/"/>
     <id>https://wikip.co/sweet-potato/</id>
-    <published>2025-01-04T08:44:26.909Z</published>
-    <updated>2025-01-04T08:44:26.909Z</updated>
+    <published>2024-12-22T01:13:21.235Z</published>
+    <updated>2024-12-22T01:13:21.235Z</updated>
     
     
       
@@ -1412,8 +882,8 @@ amzn_assoc_asins =</summary>
     <title>Tomatoes</title>
     <link href="https://wikip.co/tomatoes/"/>
     <id>https://wikip.co/tomatoes/</id>
-    <published>2025-01-04T08:44:26.909Z</published>
-    <updated>2025-01-04T08:44:26.909Z</updated>
+    <published>2024-12-22T01:13:21.235Z</published>
+    <updated>2024-12-22T01:13:21.235Z</updated>
     
     
       
@@ -1444,49 +914,21 @@ amzn_assoc_asins =</summary>
   </entry>
   
   <entry>
-    <title>Bromelain</title>
-    <link href="https://wikip.co/bromelain/"/>
-    <id>https://wikip.co/bromelain/</id>
-    <published>2025-01-04T08:44:26.905Z</published>
-    <updated>2025-01-04T08:44:26.905Z</updated>
+    <title>Shiitake Mushroom</title>
+    <link href="https://wikip.co/shiitake-mushroom/"/>
+    <id>https://wikip.co/shiitake-mushroom/</id>
+    <published>2024-12-22T01:13:21.234Z</published>
+    <updated>2024-12-22T01:13:21.234Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;&lt;strong&gt;Bromelain&lt;/strong&gt; is an enzyme found in pineapples, it exists in all parts of the fresh plant and fruit.&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;#fn1&quot; id=&quot;fnref1&quot;&gt;[1]&lt;/a&gt;&lt;/sup&gt; Bromelain is used for reducing swelling (inflammation), especially of the nose and sinuses, after surgery or injury.  The term “bromelain” may refer to either of two protease enzymes extracted from the plants of the family Bromeliaceae, or it may refer to</summary>
-        
-      
-    
-    
-    
-    <category term="Natural Healing" scheme="https://wikip.co/categories/natural-healing/"/>
-    
-    <category term="Enzymes" scheme="https://wikip.co/categories/natural-healing/enzymes/"/>
-    
-    
-    <category term="Parasites" scheme="https://wikip.co/tags/parasites/"/>
-    
-    <category term="Digestion" scheme="https://wikip.co/tags/digestion/"/>
-    
-    <category term="Pain Management" scheme="https://wikip.co/tags/pain-management/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Butyric Acid</title>
-    <link href="https://wikip.co/butyric-acid/"/>
-    <id>https://wikip.co/butyric-acid/</id>
-    <published>2025-01-04T08:44:26.905Z</published>
-    <updated>2025-01-04T08:44:26.905Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;&lt;strong&gt;Butyric acid (Butanoic acid, Butyrate)&lt;/strong&gt; is a short chain fatty acid that is produced in the colon through microbial fermentation of dietary fiber.  Butyrate is then primarily absorbed and metabolized by colonocytes and the liver for the generation of ATP (adenosine-triphosphate) during energy metabolism; however, some butyrate is absorbed in the distal colon, which is not connected to the portal vein, thereby</summary>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;Shiitake Mushroom&lt;/strong&gt; (Lentinus edodes)&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;#fn1&quot; id=&quot;fnref1&quot;&gt;[1]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;h2 id=&quot;Composition&quot;&gt;Composition&lt;/h2&gt;
+&lt;h3 id=&quot;Beta-Glucans-β-glucans&quot;&gt;Beta-Glucans (β-glucans)&lt;/h3&gt;
+&lt;p&gt;Shiitake Mushrooms contain beta-glucans proven to suppress cancers, protect organs from toxicity, and provide immunomodulatory effects.&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;#fn2&quot;</summary>
         
       
     
@@ -1494,223 +936,298 @@ amzn_assoc_asins =</summary>
     
     <category term="Natural Healing" scheme="https://wikip.co/categories/natural-healing/"/>
     
-    <category term="Fatty Acids" scheme="https://wikip.co/categories/natural-healing/fatty-acids/"/>
-    
-    
-    <category term="Antibacterial" scheme="https://wikip.co/tags/antibacterial/"/>
-    
-    <category term="Carbohydrate Metabolism" scheme="https://wikip.co/tags/carbohydrate-metabolism/"/>
-    
-    <category term="Lipid Metabolism" scheme="https://wikip.co/tags/lipid-metabolism/"/>
-    
-    <category term="Energy" scheme="https://wikip.co/tags/energy/"/>
-    
-    <category term="Short Chain Fatty Acids" scheme="https://wikip.co/tags/short-chain-fatty-acids/"/>
-    
-    <category term="DNA" scheme="https://wikip.co/tags/dna/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Omega-3 Fatty Acids</title>
-    <link href="https://wikip.co/omega-3-fatty-acids/"/>
-    <id>https://wikip.co/omega-3-fatty-acids/</id>
-    <published>2025-01-04T08:44:26.905Z</published>
-    <updated>2025-01-04T08:44:26.905Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;&lt;strong&gt;Omega-3 Fatty Acids&lt;/strong&gt; also called Omega-3 oils, ω−3 fatty acids or n−3 fatty acids, are polyunsaturated fatty acids characterized by the presence of a double bond, three atoms away from the terminal methyl group in their chemical structure.&lt;/p&gt;
-&lt;h2 id=&quot;Healing-Properties&quot;&gt;Healing Properties&lt;/h2&gt;
-&lt;h3 id=&quot;Antiinflammatory&quot;&gt;Antiinflammatory&lt;/h3&gt;
-&lt;p&gt;Omega-3 fatty acids have an anti-inflammatory effect.&lt;sup</summary>
-        
-      
-    
-    
-    
-    <category term="Natural Healing" scheme="https://wikip.co/categories/natural-healing/"/>
-    
-    <category term="Fatty Acids" scheme="https://wikip.co/categories/natural-healing/fatty-acids/"/>
-    
-    
-    <category term="Diabetes" scheme="https://wikip.co/tags/diabetes/"/>
-    
-    <category term="Antiinflammatory" scheme="https://wikip.co/tags/antiinflammatory/"/>
-    
-    <category term="Cancer" scheme="https://wikip.co/tags/cancer/"/>
-    
-    <category term="Anxiety" scheme="https://wikip.co/tags/anxiety/"/>
-    
-    <category term="Depression" scheme="https://wikip.co/tags/depression/"/>
-    
-    <category term="Multiple Sclerosis" scheme="https://wikip.co/tags/multiple-sclerosis/"/>
-    
-    <category term="Dyslipidemia" scheme="https://wikip.co/tags/dyslipidemia/"/>
-    
-    <category term="Coronary Heart Disease" scheme="https://wikip.co/tags/coronary-heart-disease/"/>
-    
-    <category term="Metabolic Syndrome" scheme="https://wikip.co/tags/metabolic-syndrome/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Short Chain Fatty Acids</title>
-    <link href="https://wikip.co/short-chain-fatty-acids/"/>
-    <id>https://wikip.co/short-chain-fatty-acids/</id>
-    <published>2025-01-04T08:44:26.905Z</published>
-    <updated>2025-01-04T08:44:26.905Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;&lt;strong&gt;Short Chain Fatty Acids (SCFA)&lt;/strong&gt; are a postbiotic fermentation product of non-digestible dietary fiber by microbiota in the intestine.&lt;/p&gt;
-&lt;p&gt;Highly-fermentable fiber residues are transformed by colonic bacteria into short-chain fatty acids.&lt;/p&gt;
-&lt;h2 id=&quot;Healing-Properties&quot;&gt;Healing Properties&lt;/h2&gt;
-&lt;h3 id=&quot;Antiinflammatory&quot;&gt;Antiinflammatory&lt;/h3&gt;
-&lt;p&gt;SCFA have anti-inflammatory properties.&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a</summary>
-        
-      
-    
-    
-    
-    <category term="Natural Healing" scheme="https://wikip.co/categories/natural-healing/"/>
-    
-    <category term="Fatty Acids" scheme="https://wikip.co/categories/natural-healing/fatty-acids/"/>
-    
-    
-    <category term="Immunomodulator" scheme="https://wikip.co/tags/immunomodulator/"/>
-    
-    <category term="Antiinflammatory" scheme="https://wikip.co/tags/antiinflammatory/"/>
-    
-    <category term="Lung Health" scheme="https://wikip.co/tags/lung-health/"/>
-    
-    <category term="Lungs" scheme="https://wikip.co/tags/lungs/"/>
-    
-    <category term="COPD" scheme="https://wikip.co/tags/copd/"/>
-    
-    <category term="Pulmonary Health" scheme="https://wikip.co/tags/pulmonary-health/"/>
-    
-    <category term="Chronic Obstructive Pulmonary Disease" scheme="https://wikip.co/tags/chronic-obstructive-pulmonary-disease/"/>
-    
-    <category term="Microbiome Modulation" scheme="https://wikip.co/tags/microbiome-modulation/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Kombucha</title>
-    <link href="https://wikip.co/kombucha/"/>
-    <id>https://wikip.co/kombucha/</id>
-    <published>2025-01-04T08:44:26.905Z</published>
-    <updated>2025-01-04T08:44:26.905Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;&lt;strong&gt;Kombucha&lt;/strong&gt; is a fermented, lightly effervescent, sweetened black or green tea drink. Juice, spices, fruit and other flavorings are often added to the beverage.&lt;/p&gt;
-&lt;h2 id=&quot;Healing-Properties&quot;&gt;Healing Properties&lt;/h2&gt;
-&lt;h3 id=&quot;Antioxidant&quot;&gt;Antioxidant&lt;/h3&gt;
-&lt;h3 id=&quot;Metabolism&quot;&gt;Metabolism&lt;/h3&gt;
-&lt;p&gt;Kombuchas from green and black teas have bioactive properties that can help control metabolic alterations induced by a high-fat</summary>
-        
-      
-    
-    
-    
-    <category term="Natural Healing" scheme="https://wikip.co/categories/natural-healing/"/>
-    
-    <category term="Fermented Foods" scheme="https://wikip.co/categories/natural-healing/fermented-foods/"/>
+    <category term="Fungii" scheme="https://wikip.co/categories/natural-healing/fungii/"/>
     
     
     <category term="Antioxidant" scheme="https://wikip.co/tags/antioxidant/"/>
     
-    <category term="Antiinflammatory" scheme="https://wikip.co/tags/antiinflammatory/"/>
+    <category term="Immunomodulation" scheme="https://wikip.co/tags/immunomodulation/"/>
     
-    <category term="Cholesterol" scheme="https://wikip.co/tags/cholesterol/"/>
+  </entry>
+  
+  <entry>
+    <title>Stout Camphor Fungus</title>
+    <link href="https://wikip.co/stout-camphor-fungus/"/>
+    <id>https://wikip.co/stout-camphor-fungus/</id>
+    <published>2024-12-22T01:13:21.234Z</published>
+    <updated>2024-12-22T01:13:21.234Z</updated>
     
-    <category term="Blood Sugar" scheme="https://wikip.co/tags/blood-sugar/"/>
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;strong&gt;Stout camphor fungus (Antrodia camphorata)&lt;/strong&gt; is also known as Taiwanofungus camphoratus.  It is endemic to Taiwan, where it grows only on the endemic tree Cinnamomum kanehirae, causing a brown heart rot.  In Taiwan it is also known as niu-chang, niu-chang-ku, or niu-chang-chih.&lt;/p&gt;
+&lt;h2 id=&quot;Healing-Properties&quot;&gt;Healing Properties&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Immunomodulation:&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;#fn1&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Natural Healing" scheme="https://wikip.co/categories/natural-healing/"/>
+    
+    <category term="Fungii" scheme="https://wikip.co/categories/natural-healing/fungii/"/>
+    
+    
+    <category term="Immunomodulation" scheme="https://wikip.co/tags/immunomodulation/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Turkey Tail Mushroom</title>
+    <link href="https://wikip.co/turkey-tail-mushroom/"/>
+    <id>https://wikip.co/turkey-tail-mushroom/</id>
+    <published>2024-12-22T01:13:21.234Z</published>
+    <updated>2024-12-22T01:13:21.234Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;strong&gt;Turkey Tail Mushroom&lt;/strong&gt; (also known as Coriolus versicolor, Trametes versicolor, or Polyporus versicolor)&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;#fn1&quot; id=&quot;fnref1&quot;&gt;[1]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;h2 id=&quot;Composition&quot;&gt;Composition&lt;/h2&gt;
+&lt;h3 id=&quot;Beta-Glucans-β-glucans&quot;&gt;Beta-Glucans (β-glucans)&lt;/h3&gt;
+&lt;p&gt;Turkey Tail Mushrooms contain beta-glucans proven to suppress cancers, protect organs from toxicity, and provide immunomodulatory</summary>
+        
+      
+    
+    
+    
+    <category term="Natural Healing" scheme="https://wikip.co/categories/natural-healing/"/>
+    
+    <category term="Fungii" scheme="https://wikip.co/categories/natural-healing/fungii/"/>
+    
+    
+    <category term="Immune System" scheme="https://wikip.co/tags/immune-system/"/>
+    
+    <category term="Anticancer" scheme="https://wikip.co/tags/anticancer/"/>
+    
+    <category term="Antitumor" scheme="https://wikip.co/tags/antitumor/"/>
+    
+    <category term="Breast Cancer" scheme="https://wikip.co/tags/breast-cancer/"/>
+    
+    <category term="Colorectal Cancer" scheme="https://wikip.co/tags/colorectal-cancer/"/>
+    
+    <category term="Lung Cancer" scheme="https://wikip.co/tags/lung-cancer/"/>
+    
+    <category term="Anti-Cancer" scheme="https://wikip.co/tags/anti-cancer/"/>
+    
+    <category term="Anti-Tumor" scheme="https://wikip.co/tags/anti-tumor/"/>
+    
+    <category term="Beta-Glucans" scheme="https://wikip.co/tags/beta-glucans/"/>
+    
+    <category term="Gastric Cancer" scheme="https://wikip.co/tags/gastric-cancer/"/>
+    
+    <category term="Esophageal Cancer" scheme="https://wikip.co/tags/esophageal-cancer/"/>
+    
+    <category term="Immunostimulator" scheme="https://wikip.co/tags/immunostimulator/"/>
+    
+    <category term="Chemoimmunotherapy" scheme="https://wikip.co/tags/chemoimmunotherapy/"/>
+    
+    <category term="Immunotherapy" scheme="https://wikip.co/tags/immunotherapy/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Carrot Seeds</title>
+    <link href="https://wikip.co/carrot-seeds/"/>
+    <id>https://wikip.co/carrot-seeds/</id>
+    <published>2024-12-22T01:13:21.234Z</published>
+    <updated>2024-12-22T01:13:21.234Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Although the carrot plant is primarily grown with the aim of obtaining roots, &lt;strong&gt;Carrot Seeds&lt;/strong&gt; are produced when the flowering process is induced; and the plant turns from the vegetative phase to the reproductive phase thus producing a rod or floral tassel at the end of it and umbels which carry the seeds.&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;#fn1&quot; id=&quot;fnref1&quot;&gt;[1]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;The seeds are used as a flavoring agent in</summary>
+        
+      
+    
+    
+    
+    <category term="Natural Healing" scheme="https://wikip.co/categories/natural-healing/"/>
+    
+    <category term="Nut and Seed Products" scheme="https://wikip.co/categories/natural-healing/nut-and-seed-products/"/>
+    
+    
+    <category term="Antimicrobial" scheme="https://wikip.co/tags/antimicrobial/"/>
+    
+    <category term="Antifungal" scheme="https://wikip.co/tags/antifungal/"/>
+    
+    <category term="Anti-Fungal" scheme="https://wikip.co/tags/anti-fungal/"/>
+    
+    <category term="Brain Health" scheme="https://wikip.co/tags/brain-health/"/>
+    
+    <category term="Dementia" scheme="https://wikip.co/tags/dementia/"/>
+    
+    <category term="Alzheimer&#39;s" scheme="https://wikip.co/tags/alzheimer-s/"/>
     
     <category term="Liver Health" scheme="https://wikip.co/tags/liver-health/"/>
     
-    <category term="Probiotic" scheme="https://wikip.co/tags/probiotic/"/>
+    <category term="Hepatoprotective" scheme="https://wikip.co/tags/hepatoprotective/"/>
     
-    <category term="Vascular Health" scheme="https://wikip.co/tags/vascular-health/"/>
+    <category term="Brain Aging" scheme="https://wikip.co/tags/brain-aging/"/>
     
-    <category term="Glucose Metabolism" scheme="https://wikip.co/tags/glucose-metabolism/"/>
+    <category term="Insulin Signaling" scheme="https://wikip.co/tags/insulin-signaling/"/>
     
-    <category term="Metabolism" scheme="https://wikip.co/tags/metabolism/"/>
+    <category term="Hepatoprotection" scheme="https://wikip.co/tags/hepatoprotection/"/>
     
-    <category term="Weight Loss" scheme="https://wikip.co/tags/weight-loss/"/>
+    <category term="Neurogenesis" scheme="https://wikip.co/tags/neurogenesis/"/>
     
   </entry>
   
   <entry>
-    <title>What is Fiber?</title>
-    <link href="https://wikip.co/what-is-fiber/"/>
-    <id>https://wikip.co/what-is-fiber/</id>
-    <published>2025-01-04T08:44:26.905Z</published>
-    <updated>2025-01-04T08:44:26.905Z</updated>
+    <title>Chia Seeds</title>
+    <link href="https://wikip.co/chia-seeds/"/>
+    <id>https://wikip.co/chia-seeds/</id>
+    <published>2024-12-22T01:13:21.234Z</published>
+    <updated>2024-12-22T01:13:21.234Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;&lt;strong&gt;Dietary Fiber&lt;/strong&gt; are substances of [plant] origin present in foods that are not metabolized in the large digestive tract and increase volume of the intestinal content. Chemically, dietary fiber means carbohydrate polymers with a degree of polymerization not lower than 3, which are neither digested nor absorbed in the small intestine. Examples include fruit, barley, oats, lignin, cellulose, pectin, etc. Generous intake</summary>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;Chia seeds&lt;/strong&gt; are the edible seeds of the Salvia hispanica (Mexican Sage) plant.  The word “chia” is derived from the Nahuatl word chian, meaning oily.  Chia seeds are rich in omega-3 fatty acids; the seeds yield 25–30% extractable oil, including α-linolenic acid.&lt;/p&gt;
+&lt;h2 id=&quot;Healing-Properties&quot;&gt;Healing Properties&lt;/h2&gt;
+&lt;h3 id=&quot;Brain-Health&quot;&gt;Brain Health&lt;/h3&gt;
+&lt;h4 id=&quot;Behavior&quot;&gt;Behavior&lt;/h4&gt;
+&lt;h5</summary>
         
       
     
-    
-    <content src="https://wikip.co/fiber" type="image"/>
     
     
     <category term="Natural Healing" scheme="https://wikip.co/categories/natural-healing/"/>
     
-    <category term="Fiber" scheme="https://wikip.co/categories/natural-healing/fiber/"/>
+    <category term="Nut and Seed Products" scheme="https://wikip.co/categories/natural-healing/nut-and-seed-products/"/>
     
     
-    <category term="Immunomodulator" scheme="https://wikip.co/tags/immunomodulator/"/>
+    <category term="Brain Health" scheme="https://wikip.co/tags/brain-health/"/>
     
-    <category term="Antiinflammatory" scheme="https://wikip.co/tags/antiinflammatory/"/>
+    <category term="Learning" scheme="https://wikip.co/tags/learning/"/>
     
-    <category term="Digestion" scheme="https://wikip.co/tags/digestion/"/>
+    <category term="Intelligence" scheme="https://wikip.co/tags/intelligence/"/>
+    
+    <category term="Speech" scheme="https://wikip.co/tags/speech/"/>
+    
+    <category term="Verbal Intelligence" scheme="https://wikip.co/tags/verbal-intelligence/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Flax Seed</title>
+    <link href="https://wikip.co/flax-seed/"/>
+    <id>https://wikip.co/flax-seed/</id>
+    <published>2024-12-22T01:13:21.234Z</published>
+    <updated>2024-12-22T01:13:21.234Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;strong&gt;Flaxseeds&lt;/strong&gt; are from the Linum usitatissimum L. plant.&lt;/p&gt;
+&lt;p&gt;Flaxseeds occur in two basic varieties/colors: brown or yellow (golden linseeds).&lt;/p&gt;
+&lt;h2 id=&quot;Composition&quot;&gt;Composition&lt;/h2&gt;
+&lt;h3 id=&quot;Lignans&quot;&gt;Lignans&lt;/h3&gt;
+&lt;p&gt;Flaxseeds have lignan contents several times higher than other dietary sources.&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;#fn1&quot; id=&quot;fnref1&quot;&gt;[1]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Flaxseeds are principally the richest known</summary>
+        
+      
+    
+    
+    
+    <category term="Natural Healing" scheme="https://wikip.co/categories/natural-healing/"/>
+    
+    <category term="Nut and Seed Products" scheme="https://wikip.co/categories/natural-healing/nut-and-seed-products/"/>
+    
+    
+    <category term="Heart Health" scheme="https://wikip.co/tags/heart-health/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Grape Seed Extract</title>
+    <link href="https://wikip.co/grape-seed-extract/"/>
+    <id>https://wikip.co/grape-seed-extract/</id>
+    <published>2024-12-22T01:13:21.234Z</published>
+    <updated>2024-12-22T01:13:21.234Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;strong&gt;Grape Seed Extract&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&quot;Composition&quot;&gt;Composition&lt;/h2&gt;
+&lt;h3 id=&quot;Polyphenols&quot;&gt;Polyphenols&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Catechin and Epicatechin
+&lt;ul&gt;
+&lt;li&gt;There are specially manufactured catechin-rich versions of Grape Seed Extact which are engineered to contain high concentrations of monomeric catechins.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Catechin ©&lt;/li&gt;
+&lt;li&gt;Epicatechin gallate (ECG)&lt;/li&gt;
+&lt;li&gt;Procyanidin B1&lt;/li&gt;
+&lt;li&gt;Procyanidin</summary>
+        
+      
+    
+    
+    
+    <category term="Natural Healing" scheme="https://wikip.co/categories/natural-healing/"/>
+    
+    <category term="Nut and Seed Products" scheme="https://wikip.co/categories/natural-healing/nut-and-seed-products/"/>
+    
+    
+    <category term="Antioxidant" scheme="https://wikip.co/tags/antioxidant/"/>
+    
+    <category term="Fibromyalgia" scheme="https://wikip.co/tags/fibromyalgia/"/>
+    
+    <category term="Glucose Regulation" scheme="https://wikip.co/tags/glucose-regulation/"/>
+    
+    <category term="Blood Sugar" scheme="https://wikip.co/tags/blood-sugar/"/>
     
     <category term="Lung Health" scheme="https://wikip.co/tags/lung-health/"/>
     
-    <category term="Lungs" scheme="https://wikip.co/tags/lungs/"/>
+    <category term="Obesity" scheme="https://wikip.co/tags/obesity/"/>
     
-    <category term="COPD" scheme="https://wikip.co/tags/copd/"/>
+    <category term="Alpha-Glucosidase inhibitor" scheme="https://wikip.co/tags/alpha-glucosidase-inhibitor/"/>
     
-    <category term="Chronic Obstructive Pulmonary Disease" scheme="https://wikip.co/tags/chronic-obstructive-pulmonary-disease/"/>
+    <category term="Glucosidase inhibitor" scheme="https://wikip.co/tags/glucosidase-inhibitor/"/>
     
-    <category term="Microbiome Modulation" scheme="https://wikip.co/tags/microbiome-modulation/"/>
+    <category term="Lung Damage" scheme="https://wikip.co/tags/lung-damage/"/>
+    
+    <category term="Lung Protection" scheme="https://wikip.co/tags/lung-protection/"/>
     
   </entry>
   
   <entry>
-    <title>Apples</title>
-    <link href="https://wikip.co/apples/"/>
-    <id>https://wikip.co/apples/</id>
-    <published>2025-01-04T08:44:26.905Z</published>
-    <updated>2025-01-04T08:44:26.905Z</updated>
+    <title>Hazelnut</title>
+    <link href="https://wikip.co/hazelnut/"/>
+    <id>https://wikip.co/hazelnut/</id>
+    <published>2024-12-22T01:13:21.234Z</published>
+    <updated>2024-12-22T01:13:21.234Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;Apples (Malus domestica) are one of the most significant fruits in all of the world.&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;#fn1&quot; id=&quot;fnref1&quot;&gt;[1]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;strong&gt;Hazelnut&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&quot;Healing-Properties&quot;&gt;Healing Properties&lt;/h2&gt;
-&lt;h3 id=&quot;Antioxidant&quot;&gt;Antioxidant&lt;/h3&gt;
-&lt;p&gt;Many types of antioxidant compounds are present in apple fruit and apple peels.&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;#fn1&quot; id=&quot;fnref1:1&quot;&gt;[1:1]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;p&gt;Apples contain a large number,</summary>
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Antioxidant:&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cytoprotective:&lt;/strong&gt; protects cells against harmful agents.
+&lt;ul&gt;
+&lt;li&gt;The Asian hazelnut, Corylus heterophylla Fisch–a species of hazel native to eastern Asia in northern and central China, Korea, Japan, and southeastern Siberia–exhibited strong antioxidant and cytoprotective effects.&lt;sup</summary>
         
       
     
@@ -1718,32 +1235,391 @@ amzn_assoc_asins =</summary>
     
     <category term="Natural Healing" scheme="https://wikip.co/categories/natural-healing/"/>
     
-    <category term="Fruits" scheme="https://wikip.co/categories/natural-healing/fruits/"/>
+    <category term="Nut and Seed Products" scheme="https://wikip.co/categories/natural-healing/nut-and-seed-products/"/>
     
     
-    <category term="Antiviral" scheme="https://wikip.co/tags/antiviral/"/>
+    <category term="Antioxidant" scheme="https://wikip.co/tags/antioxidant/"/>
+    
+    <category term="Heart Health" scheme="https://wikip.co/tags/heart-health/"/>
+    
+    <category term="Heart Disease" scheme="https://wikip.co/tags/heart-disease/"/>
+    
+    <category term="Cytoprotective" scheme="https://wikip.co/tags/cytoprotective/"/>
+    
+    <category term="Hepatoprotective" scheme="https://wikip.co/tags/hepatoprotective/"/>
+    
+    <category term="Obesity" scheme="https://wikip.co/tags/obesity/"/>
+    
+    <category term="Weight Loss" scheme="https://wikip.co/tags/weight-loss/"/>
+    
+    <category term="Endothelial Health" scheme="https://wikip.co/tags/endothelial-health/"/>
+    
+    <category term="Dysmetabolic Syndrome" scheme="https://wikip.co/tags/dysmetabolic-syndrome/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hemp Seeds</title>
+    <link href="https://wikip.co/hemp-seeds/"/>
+    <id>https://wikip.co/hemp-seeds/</id>
+    <published>2024-12-22T01:13:21.234Z</published>
+    <updated>2024-12-22T01:13:21.234Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;strong&gt;Hemp Seeds&lt;/strong&gt;&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;#fn1&quot; id=&quot;fnref1&quot;&gt;[1]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;h2 id=&quot;Healing-Properties&quot;&gt;Healing Properties&lt;/h2&gt;
+&lt;h2 id=&quot;Disease-Symptom-Treatment&quot;&gt;Disease / Symptom Treatment&lt;/h2&gt;
+&lt;hr class=&quot;footnotes-sep&quot;&gt;
+&lt;section class=&quot;footnotes&quot;&gt;
+&lt;ol class=&quot;footnotes-list&quot;&gt;
+&lt;li id=&quot;fn1&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; &lt;br&gt;&lt;strong&gt;Author(s):&lt;/strong&gt;  &lt;br&gt;&lt;strong&gt;Institution(s):&lt;/strong&gt;</summary>
+        
+      
+    
+    
+    
+    <category term="Natural Healing" scheme="https://wikip.co/categories/natural-healing/"/>
+    
+    <category term="Nut and Seed Products" scheme="https://wikip.co/categories/natural-healing/nut-and-seed-products/"/>
+    
+    
+    <category term="Vegan Protein" scheme="https://wikip.co/tags/vegan-protein/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Pumpkin Seeds</title>
+    <link href="https://wikip.co/pumpkin-seeds/"/>
+    <id>https://wikip.co/pumpkin-seeds/</id>
+    <published>2024-12-22T01:13:21.234Z</published>
+    <updated>2024-12-22T01:13:21.234Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;strong&gt;Pumpkin Seeds&lt;/strong&gt;&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;#fn1&quot; id=&quot;fnref1&quot;&gt;[1]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;h2 id=&quot;Healing-Properties&quot;&gt;Healing Properties&lt;/h2&gt;
+&lt;h2 id=&quot;Disease-Symptom-Treatment&quot;&gt;Disease / Symptom Treatment&lt;/h2&gt;
+&lt;hr class=&quot;footnotes-sep&quot;&gt;
+&lt;section class=&quot;footnotes&quot;&gt;
+&lt;ol class=&quot;footnotes-list&quot;&gt;
+&lt;li id=&quot;fn1&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; &lt;br&gt;&lt;strong&gt;Author(s):&lt;/strong&gt;  &lt;br&gt;&lt;strong&gt;Institution(s):&lt;/strong&gt;</summary>
+        
+      
+    
+    
+    
+    <category term="Natural Healing" scheme="https://wikip.co/categories/natural-healing/"/>
+    
+    <category term="Nut and Seed Products" scheme="https://wikip.co/categories/natural-healing/nut-and-seed-products/"/>
+    
+    
+    <category term="Potassium" scheme="https://wikip.co/tags/potassium/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Sesame</title>
+    <link href="https://wikip.co/sesame/"/>
+    <id>https://wikip.co/sesame/</id>
+    <published>2024-12-22T01:13:21.234Z</published>
+    <updated>2024-12-22T01:13:21.234Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;strong&gt;Sesame seeds&lt;/strong&gt; come from the flowering plant Sesamum indicum.&lt;/p&gt;
+&lt;h2 id=&quot;Composition&quot;&gt;Composition&lt;/h2&gt;
+&lt;p&gt;Sesame has one of the highest oil contents of any seed.&lt;/p&gt;
+&lt;p&gt;Sesame seeds have lignan contents several times higher than other dietary sources.&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;#fn1&quot; id=&quot;fnref1&quot;&gt;[1]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;The lignan concentrations in sesame seeds (almost 29 mg/100 g, principally pinoresinol and 119</summary>
+        
+      
+    
+    
+    
+    <category term="Natural Healing" scheme="https://wikip.co/categories/natural-healing/"/>
+    
+    <category term="Nut and Seed Products" scheme="https://wikip.co/categories/natural-healing/nut-and-seed-products/"/>
+    
+    
+    <category term="Parkinson&#39;s Disease" scheme="https://wikip.co/tags/parkinson-s-disease/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Velvet Bean Seed</title>
+    <link href="https://wikip.co/velvet-bean-seed/"/>
+    <id>https://wikip.co/velvet-bean-seed/</id>
+    <published>2024-12-22T01:13:21.234Z</published>
+    <updated>2024-12-22T01:13:21.234Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Velvet Bean Seed&lt;/p&gt;
+&lt;h2 id=&quot;Healing-Properties&quot;&gt;Healing Properties&lt;/h2&gt;
+&lt;h2 id=&quot;Disease-Symptom-Treatment&quot;&gt;Disease / Symptom</summary>
+        
+      
+    
+    
+    
+    <category term="Natural Healing" scheme="https://wikip.co/categories/natural-healing/"/>
+    
+    <category term="Nut and Seed Products" scheme="https://wikip.co/categories/natural-healing/nut-and-seed-products/"/>
+    
+    
+    <category term="Antioxidant" scheme="https://wikip.co/tags/antioxidant/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Walnut</title>
+    <link href="https://wikip.co/walnut/"/>
+    <id>https://wikip.co/walnut/</id>
+    <published>2024-12-22T01:13:21.234Z</published>
+    <updated>2024-12-22T01:13:21.234Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;strong&gt;Walnut&lt;/strong&gt; (Juglans regia)&lt;/p&gt;
+&lt;h2 id=&quot;Composition&quot;&gt;Composition&lt;/h2&gt;
+&lt;p&gt;Walnuts contain daucosterol.&lt;/p&gt;
+&lt;h2 id=&quot;Healing-Properties&quot;&gt;Healing Properties&lt;/h2&gt;
+&lt;h3 id=&quot;Antibiotic&quot;&gt;Antibiotic&lt;/h3&gt;
+&lt;h3 id=&quot;Antibacterial&quot;&gt;Antibacterial&lt;/h3&gt;
+&lt;h3 id=&quot;Brain-Health&quot;&gt;Brain Health&lt;/h3&gt;
+&lt;p&gt;Powerful antioxidant.&lt;/p&gt;
+&lt;h4 id=&quot;Cognition&quot;&gt;Cognition&lt;/h4&gt;
+&lt;p&gt;Improves learning and memory functions.&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;#fn1&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Natural Healing" scheme="https://wikip.co/categories/natural-healing/"/>
+    
+    <category term="Nut and Seed Products" scheme="https://wikip.co/categories/natural-healing/nut-and-seed-products/"/>
+    
     
     <category term="Antioxidant" scheme="https://wikip.co/tags/antioxidant/"/>
     
     <category term="Antimicrobial" scheme="https://wikip.co/tags/antimicrobial/"/>
     
-    <category term="Hepatoprotective" scheme="https://wikip.co/tags/hepatoprotective/"/>
+    <category term="Antibacterial" scheme="https://wikip.co/tags/antibacterial/"/>
     
-    <category term="Liver Health" scheme="https://wikip.co/tags/liver-health/"/>
+    <category term="Neuroprotective" scheme="https://wikip.co/tags/neuroprotective/"/>
     
-    <category term="Fiber" scheme="https://wikip.co/tags/fiber/"/>
+    <category term="Antibiotic" scheme="https://wikip.co/tags/antibiotic/"/>
     
-    <category term="Antihepatotoxicity" scheme="https://wikip.co/tags/antihepatotoxicity/"/>
+    <category term="Learning" scheme="https://wikip.co/tags/learning/"/>
     
-    <category term="Anti-Infectious" scheme="https://wikip.co/tags/anti-infectious/"/>
+    <category term="Memory" scheme="https://wikip.co/tags/memory/"/>
     
-    <category term="Anti-Influenza" scheme="https://wikip.co/tags/anti-influenza/"/>
+    <category term="Cognition" scheme="https://wikip.co/tags/cognition/"/>
     
-    <category term="COVID-19" scheme="https://wikip.co/tags/covid-19/"/>
+    <category term="MRSA" scheme="https://wikip.co/tags/mrsa/"/>
     
-    <category term="Novel Coronavirus" scheme="https://wikip.co/tags/novel-coronavirus/"/>
+    <category term="Neurotoxicity" scheme="https://wikip.co/tags/neurotoxicity/"/>
     
-    <category term="Coronavirus" scheme="https://wikip.co/tags/coronavirus/"/>
+    <category term="Oxidative Stress" scheme="https://wikip.co/tags/oxidative-stress/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Coconut Oil</title>
+    <link href="https://wikip.co/coconut-oil/"/>
+    <id>https://wikip.co/coconut-oil/</id>
+    <published>2024-12-22T01:13:21.234Z</published>
+    <updated>2024-12-22T01:13:21.234Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;strong&gt;Coconut Oil&lt;/strong&gt;&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;#fn1&quot; id=&quot;fnref1&quot;&gt;[1]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;h2 id=&quot;Healing-Properties&quot;&gt;Healing Properties&lt;/h2&gt;
+&lt;h2 id=&quot;Disease-Symptom-Treatment&quot;&gt;Disease / Symptom Treatment&lt;/h2&gt;
+&lt;hr class=&quot;footnotes-sep&quot;&gt;
+&lt;section class=&quot;footnotes&quot;&gt;
+&lt;ol class=&quot;footnotes-list&quot;&gt;
+&lt;li id=&quot;fn1&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; &lt;br&gt;&lt;strong&gt;Author(s):&lt;/strong&gt;  &lt;br&gt;&lt;strong&gt;Institution(s):&lt;/strong&gt;</summary>
+        
+      
+    
+    
+    
+    <category term="Natural Healing" scheme="https://wikip.co/categories/natural-healing/"/>
+    
+    <category term="Oils and Fats" scheme="https://wikip.co/categories/natural-healing/oils-and-fats/"/>
+    
+    
+    <category term="Antiviral" scheme="https://wikip.co/tags/antiviral/"/>
+    
+    <category term="Antidiabetic" scheme="https://wikip.co/tags/antidiabetic/"/>
+    
+    <category term="Antioxidant" scheme="https://wikip.co/tags/antioxidant/"/>
+    
+    <category term="Antimicrobial" scheme="https://wikip.co/tags/antimicrobial/"/>
+    
+    <category term="Antibacterial" scheme="https://wikip.co/tags/antibacterial/"/>
+    
+    <category term="Antifungal" scheme="https://wikip.co/tags/antifungal/"/>
+    
+    <category term="Oral Health" scheme="https://wikip.co/tags/oral-health/"/>
+    
+    <category term="Antiinflammatory" scheme="https://wikip.co/tags/antiinflammatory/"/>
+    
+    <category term="Bone Health" scheme="https://wikip.co/tags/bone-health/"/>
+    
+    <category term="Neuroprotective" scheme="https://wikip.co/tags/neuroprotective/"/>
+    
+    <category term="Alzheimer&#39;s" scheme="https://wikip.co/tags/alzheimer-s/"/>
+    
+    <category term="Hypertension" scheme="https://wikip.co/tags/hypertension/"/>
+    
+    <category term="Gum Health" scheme="https://wikip.co/tags/gum-health/"/>
+    
+    <category term="High Blood Pressure" scheme="https://wikip.co/tags/high-blood-pressure/"/>
+    
+    <category term="Weight Loss" scheme="https://wikip.co/tags/weight-loss/"/>
+    
+    <category term="Oxidative Stress" scheme="https://wikip.co/tags/oxidative-stress/"/>
+    
+    <category term="Bone Loss" scheme="https://wikip.co/tags/bone-loss/"/>
+    
+    <category term="Yeast Infections" scheme="https://wikip.co/tags/yeast-infections/"/>
+    
+    <category term="Lauric acid" scheme="https://wikip.co/tags/lauric-acid/"/>
+    
+    <category term="Weight Control" scheme="https://wikip.co/tags/weight-control/"/>
+    
+    <category term="Good Cholesterol" scheme="https://wikip.co/tags/good-cholesterol/"/>
+    
+    <category term="Candida" scheme="https://wikip.co/tags/candida/"/>
+    
+    <category term="Antiosteoperosis" scheme="https://wikip.co/tags/antiosteoperosis/"/>
+    
+    <category term="Healthy Lipid Profile" scheme="https://wikip.co/tags/healthy-lipid-profile/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Flaxseed Oil</title>
+    <link href="https://wikip.co/flaxseed-oil/"/>
+    <id>https://wikip.co/flaxseed-oil/</id>
+    <published>2024-12-22T01:13:21.234Z</published>
+    <updated>2024-12-22T01:13:21.234Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;strong&gt;Flaxseed Oil&lt;/strong&gt;, also known as linseed oil or flax oil, is an edible oil obtained from the dried, ripened seeds of the flax plant.&lt;/p&gt;
+&lt;h2 id=&quot;Composition&quot;&gt;Composition&lt;/h2&gt;
+&lt;h3 id=&quot;α-Linolenic-Acid&quot;&gt;α-Linolenic Acid&lt;/h3&gt;
+&lt;p&gt;Flaxseed oil has been recognized as one of several foods rich in α-linolenic acid.&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;#fn1&quot; id=&quot;fnref1&quot;&gt;[1]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;α-linolenic acid has been reported</summary>
+        
+      
+    
+    
+    
+    <category term="Natural Healing" scheme="https://wikip.co/categories/natural-healing/"/>
+    
+    <category term="Oils and Fats" scheme="https://wikip.co/categories/natural-healing/oils-and-fats/"/>
+    
+    
+    <category term="Anti-Inflammatory" scheme="https://wikip.co/tags/anti-inflammatory/"/>
+    
+    <category term="Hypolipidemic" scheme="https://wikip.co/tags/hypolipidemic/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Olive Oil</title>
+    <link href="https://wikip.co/olive-oil/"/>
+    <id>https://wikip.co/olive-oil/</id>
+    <published>2024-12-22T01:13:21.234Z</published>
+    <updated>2024-12-22T01:13:21.234Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;strong&gt;Olive Oil&lt;/strong&gt;&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;#fn1&quot; id=&quot;fnref1&quot;&gt;[1]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;h2 id=&quot;Healing-Properties&quot;&gt;Healing Properties&lt;/h2&gt;
+&lt;h2 id=&quot;Disease-Symptom-Treatment&quot;&gt;Disease / Symptom Treatment&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Rheumatoid arthritis:&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr class=&quot;footnotes-sep&quot;&gt;
+&lt;section class=&quot;footnotes&quot;&gt;
+&lt;ol class=&quot;footnotes-list&quot;&gt;
+&lt;li id=&quot;fn1&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt;</summary>
+        
+      
+    
+    
+    
+    <category term="Natural Healing" scheme="https://wikip.co/categories/natural-healing/"/>
+    
+    <category term="Oils and Fats" scheme="https://wikip.co/categories/natural-healing/oils-and-fats/"/>
+    
+    
+    <category term="Antioxidant" scheme="https://wikip.co/tags/antioxidant/"/>
+    
+    <category term="Arthritis" scheme="https://wikip.co/tags/arthritis/"/>
+    
+    <category term="Rheumatoid Arthritis" scheme="https://wikip.co/tags/rheumatoid-arthritis/"/>
+    
+    <category term="Healthy Oils" scheme="https://wikip.co/tags/healthy-oils/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Bifidobacteria</title>
+    <link href="https://wikip.co/bifidobacteria/"/>
+    <id>https://wikip.co/bifidobacteria/</id>
+    <published>2024-12-22T01:13:21.234Z</published>
+    <updated>2024-12-22T01:13:21.234Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;strong&gt;Bifidobacteria&lt;/strong&gt; were discovered in 1899 in the faeces of breast-fed infants. Bifidobacteria is a genus of gram-positive, nonmotile (non-spore forming), anaerobic bacteria. They are ubiquitous in the gastrointestinal tract, vagina and mouth of mammals, including humans. Bifidobacteria are one of the major genera of bacteria that make up the gastrointestinal tract microbiota in mammals.&lt;/p&gt;
+&lt;p&gt;These bacteria are</summary>
+        
+      
+    
+    
+    
+    <category term="Natural Healing" scheme="https://wikip.co/categories/natural-healing/"/>
+    
+    <category term="Probiotics" scheme="https://wikip.co/categories/natural-healing/probiotics/"/>
+    
+    
+    <category term="Probiotic" scheme="https://wikip.co/tags/probiotic/"/>
     
   </entry>
   
