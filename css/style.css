@@ -170,7 +170,7 @@ code {
   width: 40px;
   height: 40px;
   background-repeat: no-repeat;
-  background-image: url("https://res.cloudinary.com/alchemist-cookbook/image/upload/gold-book");
+  background-image: url("");
   background-size: 40px 40px;
 }
 #container {
@@ -183,16 +183,13 @@ code {
   #main {
     display: inline;
     float: left;
-    width: 73.42105263157895%;
+    width: 98.42105263157895%;
     margin: 0 0.789473684210526%;
   }
 }
 @media screen and (min-width: 800px) and (max-width: 1199px) {
   #main {
-    display: inline;
-    float: left;
-    width: 63.421052631578945%;
-    margin: 0 0.789473684210526%;
+    width: 100%;
   }
 }
 @media screen and (min-width: 560px) and (max-width: 799px) {
@@ -345,27 +342,52 @@ code {
 .widget dt {
   font-weight: bold;
 }
+.ins-search-input {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  margin-bottom: 10px;
+  font: 14px "open sans", "Helvetica Neue", "Microsoft Yahei", Helvetica, Arial, sans-serif;
+  color: #565a5f;
+}
 #local-search-result {
-  scroll: auto;
   overflow: auto;
   max-height: 10in;
   background-color: #fff;
   margin-bottom: 10px;
 }
-ul.search-result-list {
+.search-result-list {
   padding-left: 10px;
+  list-style: none;
+  margin: 10px 0;
 }
-a.search-result-title {
+.search-result-title {
   font-weight: bold;
   font-size: 140%;
+  text-decoration: none;
+  color: #38b7ea;
 }
-p.search-result {
-  font-size: 115%;
+.search-result-title:hover {
+  color: #169cd2;
 }
-em.search-keyword {
-  border-bottom: 1px dashed #4088b8;
+.search-result-meta {
+  font-size: 0.9em;
+  color: #666;
+  margin-top: 5px;
+}
+.categories::before {
+  content: "Categories: ";
   font-weight: bold;
-  font-size: 125%;
+}
+.tags::before {
+  content: "Tags: ";
+  font-weight: bold;
+  margin-left: 10px;
+}
+.local-search-empty {
+  color: #999;
+  font-style: italic;
 }
 #header {
   background: #565a5f;
@@ -2365,7 +2387,4 @@ ol.toc {
 .highlight .code .type,
 .highlight .code .selector-id {
   font-weight: bold;
-}
-#profile {
-  float: right;
 }
